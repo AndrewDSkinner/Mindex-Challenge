@@ -6,7 +6,7 @@ Mongo database is bootstrapped with a serialized snapshot of the database. While
 accessed and mutated in the database without impacting the snapshot.
 
 ### How to Run
-The application may be executed by running `gradlew bootRun`.
+The application may be executed by running `gradlew bootRun`. **May require an upgrade to Gradle wrapper 7.2***
 
 ### How to Use
 The following endpoints are available to use:
