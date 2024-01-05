@@ -7,6 +7,7 @@ accessed and mutated in the database without impacting the snapshot.
 
 ### How to Run
 The application may be executed by running `gradlew bootRun`. **May require an upgrade to Gradle wrapper 7.2***
+Endpoints can be tested by using the postman requests located in the /tests folder. Postman is free to download here -> https://www.postman.com/downloads/
 
 ### How to Use
 The following endpoints are available to use:
