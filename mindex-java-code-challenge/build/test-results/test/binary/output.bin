@@ -1,0 +1,3 @@
+™11:38:32.373 [Test worker] DEBUG com.mindex.challenge.controller.EmployeeController - Received employee reporting structure update request for id [123]
+ä11:38:32.385 [Test worker] DEBUG com.mindex.challenge.controller.EmployeeController - Received employee compensation creation request of [com.mindex.challenge.data.Salary@40e86a1f] for id [19750e22-e05f-4b8f-a4e9-7cd81941125d]
+±11:38:32.398 [Test worker] DEBUG com.mindex.challenge.controller.EmployeeController - Received employee compensation read request for id [17d5bf16-6ead-47ef-90c3-9c15cb0a53c2]

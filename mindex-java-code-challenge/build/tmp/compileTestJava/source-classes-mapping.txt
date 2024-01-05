@@ -1,0 +1,12 @@
+com/mindex/challenge/data/SalaryTest.java
+ com.mindex.challenge.data.SalaryTest
+com/mindex/challenge/ChallengeApplicationTests.java
+ com.mindex.challenge.ChallengeApplicationTests
+com/mindex/challenge/data/ReportingStructureTest.java
+ com.mindex.challenge.data.ReportingStructureTest
+com/mindex/challenge/DataBootstrapTest.java
+ com.mindex.challenge.DataBootstrapTest
+com/mindex/challenge/service/impl/EmployeeServiceImplTest.java
+ com.mindex.challenge.service.impl.EmployeeServiceImplTest
+com/mindex/challenge/controller/EmployeeControllerTest.java
+ com.mindex.challenge.controller.EmployeeControllerTest

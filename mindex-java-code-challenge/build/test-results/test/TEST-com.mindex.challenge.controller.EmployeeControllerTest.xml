@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mindex.challenge.controller.EmployeeControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-05T16:38:31" hostname="DIGGNITTY" time="0.49">
+  <properties/>
+  <testcase name="testGetReportingStructure" classname="com.mindex.challenge.controller.EmployeeControllerTest" time="0.474"/>
+  <testcase name="testCreateCompensation" classname="com.mindex.challenge.controller.EmployeeControllerTest" time="0.015"/>
+  <testcase name="testReadCompensation" classname="com.mindex.challenge.controller.EmployeeControllerTest" time="0.001"/>
+  <system-out><![CDATA[11:38:32.373 [Test worker] DEBUG com.mindex.challenge.controller.EmployeeController - Received employee reporting structure update request for id [123]
+11:38:32.385 [Test worker] DEBUG com.mindex.challenge.controller.EmployeeController - Received employee compensation creation request of [com.mindex.challenge.data.Salary@40e86a1f] for id [19750e22-e05f-4b8f-a4e9-7cd81941125d]
+11:38:32.398 [Test worker] DEBUG com.mindex.challenge.controller.EmployeeController - Received employee compensation read request for id [17d5bf16-6ead-47ef-90c3-9c15cb0a53c2]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
